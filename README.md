@@ -14,7 +14,7 @@ Developed a cryptocurrency price prediction application in Python using NumPy, P
 
 Developed a chatbot powered by a sequential neural network with five dense layers, two dropout layers, and an SGD optimizer to enhance conversational AI capabilities.
 
-[Project](Link to be added)
+[Project](DataScienceChatbot/index.md)
 
 ## Education
 
